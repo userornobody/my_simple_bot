@@ -1,2 +1,2 @@
-python-telegram-bot[standard]==20.6
+python-telegram-bot[standard]==22.2
 
